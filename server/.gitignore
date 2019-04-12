@@ -28,3 +28,6 @@ benchmarks/graphs
 
 # dotenv
 .env
+
+# Credentials
+credentials
